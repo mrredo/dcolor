@@ -1,5 +1,3 @@
 module.exports = {
-    dcolor() {
-        return '#ff0000'
-    }
+    dcolor: '#ff0000'
 }
